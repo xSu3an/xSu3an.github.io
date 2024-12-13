@@ -1003,7 +1003,7 @@ details[open] summary {
   margin: 5px 5px 0;
   width: 80px;
   height: 25px;
-  background-color: #619ac3;
+  background-color: #2486b9;
   border-radius: 15px;
   box-shadow: 1px 1px 2px #d7d7d7;
   text-align: center;
@@ -1060,7 +1060,7 @@ details[open] summary {
   margin-right: 5px;
 }
 .contact-item:hover {
-  background-color: #619ac3;
+  background-color: #2486b9;
   border-radius: 10px;
   color: #fff;
 }
@@ -1090,7 +1090,7 @@ details[open] summary {
   box-shadow: 1px 1px 1px rgba(0,0,0,0.125);
 }
 .links-item:hover .links-item-title {
-  background-color: #ffb64f;
+  background-color: #2486b9;
   color: #fff;
   transition: background-color 0.5s ease-out;
 }
@@ -1372,7 +1372,7 @@ html *::-webkit-scrollbar-track {
 }
 @-moz-document url-prefix() {
   html * {
-    scrollbar-color: #ffb64f #f0f0f0;
+    scrollbar-color: #2486b9 #f0f0f0;
     scrollbar-width: thin;
   }
 }
@@ -1626,7 +1626,7 @@ body .main .main-content {
   align-items: center;
 }
 .post-reward:hover {
-  background-color: #ffb64f;
+  background-color: #2486b9;
   color: #fff;
   box-shadow: 1px 1px 1px rgba(0,0,0,0.125);
 }
@@ -1889,7 +1889,7 @@ details code {
 }
 .copyright-info a:hover {
   color: #fff;
-  background-color: #ffb64f;
+  background-color: #2486b9;
   border-radius: 8px;
 }
 .register-info {
