@@ -11,10 +11,10 @@ body.dm-dark .main-content {
   background: rgba(78,74,85,0.4);
 }
 body.dm-dark a {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark a:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 body.dm-dark h1,
 body.dm-dark h2,
@@ -22,7 +22,7 @@ body.dm-dark h3,
 body.dm-dark h4,
 body.dm-dark h5,
 body.dm-dark h6 {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark hr {
   border-image: linear-gradient(to right, rgba(141,141,141,0.1), rgba(141,141,141,0.35), rgba(141,141,141,0.1)) 1;
@@ -37,7 +37,7 @@ body.dm-dark details[open] summary {
   background-color: rgba(78,74,85,0.4);
 }
 body.dm-dark .blog-title {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark .blog-desc {
   color: #e0e0e0;
@@ -46,16 +46,16 @@ body.dm-dark .index-post-item {
   border-image: linear-gradient(to right, rgba(141,141,141,0.1), rgba(141,141,141,0.35), rgba(141,141,141,0.1)) 1;
 }
 body.dm-dark .index-post-item h1 a {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark .index-post-item h1 a:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 body.dm-dark .index-post-item .read-more {
-  background-color: #975100;
+  background-color: #144a74;
 }
 body.dm-dark .index-post-item .read-more:hover {
-  background-color: #db8540;
+  background-color: #b2bbbe;
 }
 body.dm-dark .pagination a {
   color: #8d8d8d;
@@ -80,22 +80,22 @@ body.dm-dark #tool-bar-more {
 }
 body.dm-dark #tool-bar-main div:hover,
 body.dm-dark #tool-bar-more div:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 body.dm-dark header {
   background-color: #2b292e;
 }
 body.dm-dark .nav-info #nav-title {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark .nav-info #nav-title:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 body.dm-dark .top-menu-expanded .top-menu-item {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark .top-menu-expanded .top-menu-item:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 body.dm-dark #top-menu-hidden .menu-hidden-content {
   background-color: rgba(78,74,85,0.4);
@@ -108,10 +108,10 @@ body.dm-dark .search-container {
   background-color: #2b292e;
 }
 body.dm-dark .search-head {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark #search-result em {
-  color: #db8540;
+  color: #b2bbbe;
 }
 body.dm-dark .article-item a,
 body.dm-dark .post-copyright a,
@@ -148,7 +148,7 @@ body.dm-dark .contact-item a {
   color: #e0e0e0;
 }
 body.dm-dark .contact-item:hover {
-  background-color: #db8540;
+  background-color: #b2bbbe;
 }
 body.dm-dark .links-item {
   color: #e0e0e0;

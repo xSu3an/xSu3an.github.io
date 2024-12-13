@@ -805,10 +805,10 @@ img {
   text-align: center;
 }
 a {
-  color: #f9802d;
+  color: #619ac3;
 }
 a:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 p {
   line-height: 1.6em;
@@ -856,7 +856,7 @@ blockquote {
   padding: 6px 12px;
   background-color: #fff7dc;
   box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-  border-left: 10px solid #ffdf6a;
+  border-left: 10px solid #f9ae08;
   line-height: 2em;
 }
 blockquote.light {
@@ -928,7 +928,7 @@ details summary {
   font-weight: bold;
 }
 details summary:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 details[open] {
   padding: 10px 20px;
@@ -948,7 +948,7 @@ details[open] summary {
 .page-not-found h1,
 .page-not-found p {
   margin: 0 auto 8px;
-  color: #975100;
+  color: #144a74;
 }
 .page-not-found h1 {
   font-size: 5em;
@@ -960,20 +960,20 @@ details[open] summary {
   font-size: 18px;
   text-decoration: none;
   color: #fff;
-  background-color: #db8540;
+  background-color: #b2bbbe;
   padding: 3px 15px;
   border-radius: 20px;
   margin-top: 10px;
 }
 .page-not-found a:hover {
-  background-color: #ffcf2f;
+  background-color: #ffb64f;
 }
 .about-container {
   width: 85%;
   margin: 0 auto;
 }
 .about-container h1 {
-  color: #f9802d;
+  color: #619ac3;
   padding-bottom: 12px;
   border-bottom: 2px solid transparent;
   border-image: linear-gradient(to right, rgba(31,18,53,0.35), rgba(31,18,53,0.1)) 1;
@@ -1003,7 +1003,7 @@ details[open] summary {
   margin: 5px 5px 0;
   width: 80px;
   height: 25px;
-  background-color: rgba(255,182,79,0.9);
+  background-color: #619ac3;
   border-radius: 15px;
   box-shadow: 1px 1px 2px #d7d7d7;
   text-align: center;
@@ -1011,7 +1011,7 @@ details[open] summary {
   font-size: 16px;
 }
 .about-blog-supplement {
-  color: #db8540;
+  color: #b2bbbe;
 }
 #author-img {
   width: 100px;
@@ -1169,7 +1169,7 @@ details[open] summary {
   color: #1f1235;
 }
 .page-title {
-  color: #f9802d;
+  color: #619ac3;
 }
 .page-title h1 {
   margin: 0.5em 0;
@@ -1193,7 +1193,7 @@ details[open] summary {
   display: none;
 }
 .archives-year-link:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 .archives-year-link:hover i {
   display: inline;
@@ -1212,7 +1212,7 @@ details[open] summary {
   display: none;
 }
 .archives-month-link:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 .archives-month-link:hover i {
   display: inline;
@@ -1362,10 +1362,10 @@ html *::-webkit-scrollbar-thumb {
   border-radius: 30px;
 }
 html *::-webkit-scrollbar-thumb:hover {
-  background-color: #ffcf2f;
+  background-color: #ffb64f;
 }
 html *::-webkit-scrollbar-thumb:active {
-  background-color: #f9802d;
+  background-color: #619ac3;
 }
 html *::-webkit-scrollbar-track {
   background-color: #f0f0f0;
@@ -1377,7 +1377,7 @@ html *::-webkit-scrollbar-track {
   }
 }
 body {
-  background: #ffdf6a;
+  background: lightblue;
   transition: background 0.5s ease-out;
   -moz-transition: background 0.5s ease-out;
   -webkit-transition: background 0.5s ease-out;
@@ -1425,15 +1425,15 @@ body .main .main-content {
   flex-flow: row wrap;
   align-items: baseline;
   font-size: 20px;
-  color: #db8540;
+  color: #b2bbbe;
 }
 .tag-list-container a {
   margin: 5px 10px;
-  color: #db8540;
+  color: #b2bbbe;
 }
 .tag-list-container a:hover {
   text-decoration: underline;
-  color: #fba414;
+  color: #2376b7;
 }
 .tag-count {
   vertical-align: super;
@@ -1457,20 +1457,20 @@ body .main .main-content {
 }
 .index-posts .index-post-item .post-title-index h1 a {
   text-decoration: none;
-  color: #f9802d;
+  color: #619ac3;
 }
 .index-posts .index-post-item .post-title-index h1 a:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .index-posts .index-post-item .post-title-index h1 a i {
   margin-right: 5px;
 }
 .index-posts .index-post-item .post-title-index .post-top {
   padding: 3px 12px;
-  border: 1px #f9802d dashed;
+  border: 1px #619ac3 dashed;
   border-radius: 15px;
   text-align: center;
-  color: #f9802d;
+  color: #619ac3;
 }
 .index-posts .index-post-item .post-title-index .post-top p {
   margin: 0;
@@ -1487,7 +1487,7 @@ body .main .main-content {
   display: inline-block;
 }
 .index-posts .index-post-item .read-more {
-  background-color: #db8540;
+  background-color: #b2bbbe;
   padding: 3px 10px;
   border-radius: 20px;
   display: inline-block;
@@ -1504,7 +1504,7 @@ body .main .main-content {
   font-size: 16px;
 }
 .index-posts .index-post-item .read-more:hover {
-  background-color: #ffcf2f;
+  background-color: #ffb64f;
   box-shadow: 1.5px 1.5px 2px #d7d7d7;
 }
 .index-posts .index-post-item .post-tags {
@@ -1548,7 +1548,7 @@ body .main .main-content {
 .post-title h1 {
   margin: 20px 0 15px;
   font-size: 28px;
-  color: #f9802d;
+  color: #619ac3;
 }
 .post-title h1 i {
   margin-right: 5px;
@@ -1607,7 +1607,7 @@ body .main .main-content {
 }
 .post-prev a:hover,
 .post-next a:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .post-prev a:hover {
   animation: to-left 0.8s infinite;
@@ -1767,7 +1767,7 @@ body .main .main-content {
 }
 .blog-desc {
   font-size: 18px;
-  color: #975100;
+  color: #144a74;
   text-align: center;
   margin: 20px auto;
 }
@@ -1875,7 +1875,7 @@ details code {
   margin: 20px auto 10px;
   text-align: center;
   font-size: 15px;
-  color: #975100;
+  color: #144a74;
 }
 .footer-content i {
   margin: 0 5px;
@@ -1885,7 +1885,7 @@ details code {
 }
 .copyright-info a {
   text-decoration: none;
-  color: #975100;
+  color: #144a74;
 }
 .copyright-info a:hover {
   color: #fff;
@@ -1897,7 +1897,7 @@ details code {
 }
 #register_link {
   text-decoration: none;
-  color: #975100;
+  color: #144a74;
 }
 #register_link:hover {
   text-decoration: underline;
@@ -1946,11 +1946,11 @@ header {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #fba414;
+  color: #2376b7;
   margin-left: 5px;
 }
 .nav-info div #nav-title:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 #top-menu-hidden {
   display: none;
@@ -1969,14 +1969,14 @@ header {
 }
 .top-menu-expanded .top-menu-item {
   text-decoration: none;
-  color: #fba414;
+  color: #2376b7;
   margin-right: 20px;
 }
 .top-menu-expanded .top-menu-item i {
   margin-right: 5px;
 }
 .top-menu-expanded .top-menu-item:hover {
-  color: #f9802d;
+  color: #619ac3;
 }
 .top-search {
   display: inline-block;
@@ -2055,7 +2055,7 @@ header {
     text-decoration: none;
     line-height: 1.5em;
     font-size: 18px;
-    background-color: #ffdf6a;
+    background-color: #f9ae08;
     opacity: 0.8;
     flex: 1;
     display: flex;
@@ -2095,12 +2095,12 @@ header {
   color: #1f1235;
   width: 70px;
   height: 40px;
-  border-bottom: 3px solid #fba414;
+  border-bottom: 3px solid #2376b7;
   line-height: 40px;
 }
 .index-menu .menu-item:hover {
-  color: #fba414;
-  border-bottom: 6px solid #fba414;
+  color: #2376b7;
+  border-bottom: 6px solid #2376b7;
 }
 .pagination {
   margin: 30px auto 5px;
@@ -2114,7 +2114,7 @@ header {
   text-decoration: none;
 }
 .pagination a:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .pagination .prev,
 .pagination .next {
@@ -2122,7 +2122,7 @@ header {
 }
 .pagination .prev:hover,
 .pagination .next:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .pagination .prev i,
 .pagination .next i {
@@ -2131,7 +2131,7 @@ header {
 }
 .pagination .prev i:hover,
 .pagination .next i:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .pagination .page-number {
   margin: 0 5px;
@@ -2173,7 +2173,7 @@ header {
   justify-content: space-between;
   align-items: center;
   font-size: 20px;
-  color: #f9802d;
+  color: #619ac3;
 }
 .search-title {
   font-weight: bold;
@@ -2220,7 +2220,7 @@ header {
   margin: 5px 0;
 }
 #search-result p em {
-  color: #f9802d;
+  color: #619ac3;
   font-weight: bold;
   font-style: normal;
 }
@@ -2256,7 +2256,7 @@ header {
   margin-top: 0;
 }
 #tool-bar-main div:hover {
-  color: #fba414;
+  color: #2376b7;
   cursor: pointer;
 }
 #tool-bar-main #back-to-top {
@@ -2290,7 +2290,7 @@ header {
   margin-top: 0;
 }
 #tool-bar-more div:hover {
-  color: #fba414;
+  color: #2376b7;
   cursor: pointer;
 }
 .post-copyright span {
@@ -2303,7 +2303,7 @@ header {
   padding-right: 5px;
 }
 .post-copyright a:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .post-date i {
   margin-right: 5px;
@@ -2326,7 +2326,7 @@ header {
   padding: 0 5px;
 }
 .post-categories .post-category:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 .post-tags {
   margin: 5px 0;
@@ -2342,7 +2342,7 @@ header {
   padding: 0 5px;
 }
 .post-tags .post-tag:hover {
-  color: #fba414;
+  color: #2376b7;
 }
 #reward-panel {
   position: fixed;
@@ -2442,7 +2442,7 @@ header {
   #post-toc .toc-aside .toc-title {
     font-size: 20px;
     font-weight: bold;
-    color: #f9802d;
+    color: #619ac3;
     padding-bottom: 5px;
     border-bottom: 1px solid rgba(209,209,209,0.825);
   }
@@ -2498,7 +2498,7 @@ header {
   #post-toc .toc-title {
     font-size: 20px;
     font-weight: bold;
-    color: #f9802d;
+    color: #619ac3;
     padding-bottom: 5px;
     border-bottom: 1px solid rgba(209,209,209,0.825);
   }
